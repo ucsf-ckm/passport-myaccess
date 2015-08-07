@@ -1,0 +1,14 @@
+{
+    "name": "passport-myaccess-example",
+    "version": "1.0.0",
+    "dependencies": {
+        "passport-myaccess": "*",
+        "body-parser": "*",
+        "chalk": "*",
+        "cookie-parser": "*",
+        "express": "*",
+        "express-session": "*",
+        "morgan": "*",
+        "passport": "*"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "passport-myaccess",
+    "version": "1.0.0",
+    "license": "MIT",
+    "keywords": [
+        "passport",
+        "saml",
+        "shibboleth",
+        "sso",
+        "ucsf",
+        "myaccess"
+    ],
+    "description": "Passport authentication strategy for UCSF MyAccess",
+    "homepage": "https://github.com/ucsf-ckm/passport-myaccess",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ucsf-ckm/passport-myaccess"
+    },
+    "author": {
+        "name": "Rich Trott",
+        "email": "rtrott@gmail.com"
+    },
+    "bugs": "https://github.com/ucsf-ckm/passport-myaccess/issues",
+    "main": "index.js",
+    "dependencies": {
+        "passport-saml": ">=0.10.0"
+    },
+    "engines": {
+        "node": ">=0.10.28"
+    }
+}
